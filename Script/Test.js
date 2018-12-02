@@ -3,3 +3,7 @@ function helloWorld() {
   console.log('This is a test.');
   alert("love u");
 }
+
+function toto() {
+  console.log('toto');
+}

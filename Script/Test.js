@@ -7,3 +7,7 @@ function helloWorld() {
 function toto() {
   console.log('toto');
 }
+
+function titi() {
+  console.log('titi');
+}

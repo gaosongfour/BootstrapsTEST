@@ -11,3 +11,7 @@ function toto() {
 function titi() {
   console.log('titi');
 }
+
+function tata() {
+  console.log('tata');
+}
